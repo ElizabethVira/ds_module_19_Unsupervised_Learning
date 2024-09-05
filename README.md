@@ -98,7 +98,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
 - Fit the K-means model using the PCA data.
 - Predict the clusters to group the cryptocurrencies using the PCA data.
 - Create a copy of the DataFrame with the PCA data and add a new column to store the predicted clusters.
-![alt text](./PCA_Clusters_table.PNG)
+![alt text](./Images/PCA_Clusters_table.PNG)
 
 - Create a scatter plot using hvPlot as follows:
     - Set the x-axis as "PC1" and the y-axis as "PC2".
